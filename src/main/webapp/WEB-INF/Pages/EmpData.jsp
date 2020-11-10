@@ -13,6 +13,8 @@
 	ID     :${emp.id}
 	Name   :${emp.name} 
 	Salary :${emp.salary}
+	
+	<a href="/api/home">Home</a>
 	</pre>
 </body>
 </html>
